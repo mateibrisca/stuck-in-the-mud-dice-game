@@ -1,4 +1,4 @@
-#"Stuck in the Mud!" Dice Game
+**"Stuck in the Mud!" Dice Game**
 
 The fun of this dice game is the unpredictablility. Some turns end immidiately and some seem to go on forever. Any dice, which show a 2 or 5, become "Stuck in the mud!" and do not score any points. 
 
